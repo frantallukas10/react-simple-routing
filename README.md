@@ -40,7 +40,7 @@ components/:
 - [./src/components/productDetails.jsx](./src/components/productDetails.jsx)
 - [./src/components/products.jsx](./src/components/products.jsx)
 
-  components/admin:
+components/admin:
 
 - [./src/components/admin/dashboard.jsx](./src/components/admin/dashboard.jsx)
 - [./src/components/admin/posts.jsx](./src/components/admin/posts.jsx)
@@ -49,13 +49,13 @@ components/:
 
 ## Project screenshot:
 
-![example](./images/1.png)
-![example](./images/2.png)
-![example](./images/3.png)
-![example](./images/4.png)
-![example](./images/5.png)
-![example](./images/6.png)
-![example](./images/7.png)
+![example](./images/1.png)<br>
+![example](./images/2.png)<br>
+![example](./images/3.png)<br>
+![example](./images/4.png)<br>
+![example](./images/5.png)<br>
+![example](./images/6.png)<br>
+![example](./images/7.png)<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 
