@@ -47,7 +47,7 @@ components/admin:
 - [./src/components/admin/sidebar.jsx](./src/components/admin/sidebar.jsx)
 - [./src/components/admin/users.jsx](./src/components/admin/users.jsx)
 
-## Project screenshot:
+## Project screenshots:
 
 ![example](./images/1.png)<br>
 ![example](./images/2.png)<br>
