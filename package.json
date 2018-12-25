@@ -1,5 +1,6 @@
 {
-  "name": "router-app",
+  "name": "react-simple-routing",
+  "author": "Ing. Lukáš Frantál",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
